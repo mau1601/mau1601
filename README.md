@@ -31,9 +31,7 @@ The scripts generated here are written in julia, python and matlab.
   
  
   ## Connect with me: 
-  mau.ap.ribeiro@gmail.com or
-  science.mau@gmail.com
-  
+  mau.ap.ribeiro@gmail.com
   
   ## My academic description:
   
