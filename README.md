@@ -22,10 +22,7 @@ The scripts generated here are written in julia, python and matlab.
   <a href = "https://www.linux.org">
    <img align = "center" alt= "Linux" heigth = "50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  style="max-width100%;"/>
   </a>
-  <a href = "https://www.ubuntu.org">
-   <img align = "center" alt= "Ubuntu" heigth = "50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="max-width100%;" />
-  </a>
- 
+
   <a href = "https://www.latex-project.org/get/">
    <img align = "center" alt= "Latex" heigth = "50" width="70" src="https://i.stack.imgur.com/zHFFO.png" style="max-width100%;" />
   </a>
